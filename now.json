@@ -1,4 +1,6 @@
 {
+  "name": "thirdparty",
+  "version": 2,
   "build": [
     { "src": "app.js", "use": "@now/node@12" }
   ]
