@@ -1,7 +1,7 @@
 {
   "name": "thirdparty",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "repository": "https://github.com/gitthermal/thirdparty.git",
   "author": "Yashu Mittal <mittalyashu77@gmail.com>",
   "dependencies": {
