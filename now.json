@@ -2,6 +2,6 @@
   "name": "thirdparty",
   "version": 2,
   "builds": [
-    { "src": "app.js", "use": "@now/node" }
+    { "src": "index.js", "use": "@now/node" }
   ]
 }
