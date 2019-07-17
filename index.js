@@ -2,8 +2,8 @@ const express = require('express')
 const app = express()
 
 module.exports = (req, res) => {
-  console.log('Hello world!!!');
-  app.get('/', function (req, res) {
-    res.send('Hello World')
+  app.post('/discord', function (req, res) {
+    console.log('Posting message to Discord');
+    console.log(res);
   })
 } 
