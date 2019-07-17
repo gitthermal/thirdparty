@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "repository": "https://github.com/gitthermal/thirdparty.git",
-  "author": "Yashu Mittal <mittalyashu77@gmail.com>"
+  "author": "Yashu Mittal <mittalyashu77@gmail.com>",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
