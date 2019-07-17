@@ -1,0 +1,7 @@
+{
+  "name": "thirdparty",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/gitthermal/thirdparty.git",
+  "author": "Yashu Mittal <mittalyashu77@gmail.com>"
+}
